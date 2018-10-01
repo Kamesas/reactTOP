@@ -2,14 +2,18 @@ import React from "react";
 import classes from "./answersList.css";
 import AnswerItem from "./answerItem/AnswerItem";
 
-const AnswersLisr = props => {
+const AnswersList = props => {
   return (
     <ul className={classes.answerList}>
       {props.answers.map((answer, i) => (
-        <AnswerItem key={i} answer={answer} />
+        <AnswerItem
+          key={i}
+          answer={answer}
+          onAnswerClick={props.onAnswerClick}
+        />
       ))}
     </ul>
   );
 };
 
-export default AnswersLisr;
+export default AnswersList;

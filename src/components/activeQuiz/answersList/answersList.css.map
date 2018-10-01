@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,eAAe,EAAE,IAAI;EACrB,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;CAAG",
+    "sources": [
+        "answersList.sass"
+    ],
+    "names": [],
+    "file": "answersList.css"
+}

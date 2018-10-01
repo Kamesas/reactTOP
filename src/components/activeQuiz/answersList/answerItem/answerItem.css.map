@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,MAAM,EAAE,cAAc;EACtB,aAAa,EAAE,GAAG;EAClB,OAAO,EAAE,QAAQ;EACjB,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,OAAO;CAGY;;AAR7B,AAME,WANS,AAMR,MAAM,CAAC;EACN,gBAAgB,EAAE,wBAAuB;EACzC,UAAU,EAAE,QAAQ;CAAG",
+    "sources": [
+        "answerItem.sass"
+    ],
+    "names": [],
+    "file": "answerItem.css"
+}

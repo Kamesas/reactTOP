@@ -11,4 +11,12 @@
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
+
+.answerItem.success {
+  background-color: green;
+}
+
+.answerItem.error {
+  background-color: red;
+}
 /*# sourceMappingURL=answerItem.css.map */
